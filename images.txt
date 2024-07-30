@@ -1,2 +1,2 @@
-calico/node:v3.28.0
-calico/kube-controllers:v3.28.0
+nginx:1.21.6
+busybox:v1.29.2
