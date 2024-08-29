@@ -1,1 +1,2 @@
-insideo/jre8:latest
+centos:latest
+centos:8
