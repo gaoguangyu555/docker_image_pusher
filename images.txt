@@ -1,2 +1,1 @@
-centos:latest
-centos:8
+openjdk:8-jre
