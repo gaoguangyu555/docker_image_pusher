@@ -1,2 +1,1 @@
-jenkins/jenkins:latest
-jenkins/jenkins:2.401.2-lts
+gitlab/gitlab-ce:latest
