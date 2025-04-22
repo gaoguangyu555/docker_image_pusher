@@ -1,2 +1,1 @@
-nginx:1.24.0
-nginx:1.22.0
+rabbitmq:3.11-management
